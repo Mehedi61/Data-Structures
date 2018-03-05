@@ -17,7 +17,7 @@ namespace QueueAPP {
          
             Console.Write("Current queue: ");
             PrintValues(q);    // printing the queue
-            Console.WriteLine("\nCurrent size of the queue: {0}\n", q.Count);
+            Console.WriteLine("\nCurrent size of the queue: {0}\n", q.Count);    // printing the size of the queue
 
             // adding new element to the queue
             q.Enqueue('E');
@@ -25,14 +25,14 @@ namespace QueueAPP {
             
             Console.Write("Current queue after enqueue operation: ");
             PrintValues(q);    // printing the queue
-            Console.WriteLine("\nCurrent size of the queue: {0}\n", q.Count);
+            Console.WriteLine("\nCurrent size of the queue: {0}\n", q.Count);    // printing the size of the queue
 
             Console.WriteLine("Removing values by dequeue operation ...");
             Console.WriteLine("Removed values: {0}, {1}\n", q.Dequeue(), q.Dequeue());    // removing element from the queue
 
             Console.Write("Current queue after dequeue operation: ");
             PrintValues(q);    // printing the queue
-            Console.WriteLine("\nCurrent size of the queue: {0}", q.Count);
+            Console.WriteLine("\nCurrent size of the queue: {0}", q.Count);    // printing the size of the queue
 
             Console.ReadKey();
         }
