@@ -37,7 +37,7 @@ namespace QueueAPP {
             Console.ReadKey();
         }
 
-        // this function print queue element's 
+        // this function print queue elements 
         public static void PrintValues (IEnumerable myCollection) {
 
             foreach (object obj in myCollection) {
