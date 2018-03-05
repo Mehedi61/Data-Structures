@@ -7,7 +7,7 @@ namespace QueueAPP {
 
     class Queue_Operations {
         
-        static void Main(string[] args) {
+        static void Main() {
             
             Queue q = new Queue();    // create and initialize a new queue
             q.Enqueue('A');
