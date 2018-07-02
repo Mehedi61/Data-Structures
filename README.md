@@ -1,5 +1,6 @@
 # Data Structures
-In this repository I'll add all of my data structures implementations.  
+In this repository I'll add all of my data structures implementations.
+I'll use Python for most of the solutions.
   
 ## Topics  
 * [**Stack**](https://github.com/Mehedi61/Data-Structures/blob/master/data-structures/stack.py)  
