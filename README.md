@@ -13,12 +13,12 @@ I'll use Python for most of the solutions.
   ### How to run
   Open your Linux terminal and execute the commands below.  
   ```
-  ``git clone https://github.com/Mehedi61/Data-Structures.git``
+  git clone https://github.com/Mehedi61/Data-Structures.git
   ```
   ```
-  ``cd Data-Structures/``
+  cd Data-Structures/
   ```
  ```
- ``python3 filename.py``
+  python3 filename.py
  ```
  
