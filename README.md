@@ -18,7 +18,7 @@ I'll use Python for most of the solutions.
   ```
   cd Data-Structures/
   ```
- ```
+  ```
   python3 filename.py
- ```
+  ```
  
