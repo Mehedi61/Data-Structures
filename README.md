@@ -18,11 +18,11 @@ I'll use Python for most of the solutions.
   ```
   cd Data-Structures/
   ```
-  for python.
+  for python ...
   ```
   python3 filename.py
   ```
-  for chsarp.
+  for chsarp ...
   ```
   mcs filename.cs
   mono filename.exe
