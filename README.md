@@ -16,7 +16,7 @@ I'll use Python for most of the solutions.
   git clone https://github.com/Mehedi61/Data-Structures.git
   ```
   ```
-  cd Data-Structures/
+  cd Data-Structures/data-structures/
   ```
   for python ...
   ```
