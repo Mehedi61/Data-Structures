@@ -10,7 +10,7 @@ I'll use Python for most of the solutions.
 * [**Linked List**](https://github.com/Mehedi61/Data-Structures/blob/master/README.md)  
   * [Singly linked list](https://github.com/Mehedi61/Data-Structures/blob/master/data-structures/singly_linked_list.py)
   
-  ### How to run
+  ### Run on Linux
   Open your Linux terminal and execute the commands below.  
   ```
   git clone https://github.com/Mehedi61/Data-Structures.git
