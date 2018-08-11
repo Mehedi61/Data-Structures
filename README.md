@@ -25,5 +25,7 @@ I'll use Python for most of the solutions.
   for chsarp ...
   ```
   mcs filename.cs
+  ```  
+  ```  
   mono filename.exe
   ```
