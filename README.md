@@ -8,7 +8,8 @@ I'll use Python for most of the solutions.
   * [Infix to postfix converter](https://github.com/Mehedi61/Data-Structures/blob/master/data-structures/infix_to_postfix_converter.py)  
 * [**Queue**](https://github.com/Mehedi61/Data-Structures/blob/master/data-structures/queue.cs)
 * [**Linked List**](https://github.com/Mehedi61/Data-Structures/blob/master/README.md)  
-  * [Singly linked list](https://github.com/Mehedi61/Data-Structures/blob/master/data-structures/singly_linked_list.py)
+  * [Singly linked list](https://github.com/Mehedi61/Data-Structures/blob/master/data-structures/singly_linked_list.py)  
+    
   
 ### Run on Linux
   Open your Linux terminal and execute the commands below.  
