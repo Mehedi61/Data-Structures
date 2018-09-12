@@ -23,7 +23,7 @@ I'll use Python for most of the solutions.
   ```
   python3 filename.py
   ```
-  for chsarp ...
+  for csharp ...
   ```
   mcs filename.cs
   ```  
